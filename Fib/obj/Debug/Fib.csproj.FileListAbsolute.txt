@@ -1,0 +1,5 @@
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Fib\Fib\obj\Debug\Fib.csprojResolveAssemblyReference.cache
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Fib\Fib\bin\Debug\Fib.exe
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Fib\Fib\bin\Debug\Fib.pdb
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Fib\Fib\obj\Debug\Fib.exe
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Fib\Fib\obj\Debug\Fib.pdb
